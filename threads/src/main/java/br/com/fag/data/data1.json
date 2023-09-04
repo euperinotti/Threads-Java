@@ -1,0 +1,59 @@
+[
+  {
+    "nome": "mock_nome",
+    "filiais": [{
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    }]
+  },
+  {
+    "nome": "mock_nome",
+    "filiais": [{
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    }]
+  },
+  {
+    "nome": "mock_nome",
+    "filiais": [{
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    },
+    {
+      "nome": "mock_filial",
+      "vendaMensal": 100.0
+    }]
+  }
+]
