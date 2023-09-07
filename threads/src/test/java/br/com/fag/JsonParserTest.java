@@ -3,9 +3,6 @@ package br.com.fag;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.nio.file.FileSystems;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.ArrayList;
 
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
@@ -20,7 +17,10 @@ public class JsonParserTest {
     Gson gson = new Gson();
     Enterprise[] lista = gson.fromJson(reader, Enterprise[].class);
 
-    System.out.println(lista[0].toString());
+    JsonParser jsonParser = new JsonParser("data1.json");
+    System.out.println(jsonParser.parse()[0].toString());
+
+
   }
   
 }
