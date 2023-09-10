@@ -3,7 +3,6 @@ package br.com.fag;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.FileSystems;
 
 import com.google.gson.Gson;
 
@@ -18,12 +17,6 @@ public class DataSaverTest {
       writer = new FileWriter(newJson);
       writer.write(gson.toJson(json.parse()));
       writer.close();
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
-
-    try {
-      newJson.createNewFile();
     } catch (IOException e) {
       e.printStackTrace();
     }
