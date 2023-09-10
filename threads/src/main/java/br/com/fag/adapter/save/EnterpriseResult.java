@@ -10,6 +10,9 @@ public class EnterpriseResult {
   private Float porcentagemLucro;
   private Float porcentagemGastos;
   private ArrayList<FilialResult> filias;
+  private Float imposto;
+  private Float aluguel;
+  private Float seguro;
 
   public EnterpriseResult() {
   }
@@ -78,6 +81,46 @@ public class EnterpriseResult {
 
   public void setFilias(ArrayList<FilialResult> filias) {
     this.filias = filias;
+  }
+
+  public Float getImposto() {
+    return this.imposto;
+  }
+
+  public void setImposto(Float imposto) {
+    this.imposto = imposto;
+  }
+
+  public Float getAluguel() {
+    return this.aluguel;
+  }
+
+  public void setAluguel(Float aluguel) {
+    this.aluguel = aluguel;
+  }
+
+  public Float getSeguro() {
+    return this.seguro;
+  }
+
+  public void setSeguro(Float seguro) {
+    this.seguro = seguro;
+  }
+
+  @Override
+  public String toString() {
+    return "{" +
+      " nome='" + getNome() + "'" +
+      ", totalVendas='" + getTotalVendas() + "'" +
+      ", totalLucro='" + getTotalLucro() + "'" +
+      ", totalGastos='" + getTotalGastos() + "'" +
+      ", porcentagemLucro='" + getPorcentagemLucro() + "'" +
+      ", porcentagemGastos='" + getPorcentagemGastos() + "'" +
+      ", filias='" + getFilias() + "'" +
+      ", imposto='" + getImposto() + "'" +
+      ", aluguel='" + getAluguel() + "'" +
+      ", seguro='" + getSeguro() + "'" +
+      "}";
   }
 
 }

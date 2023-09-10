@@ -68,4 +68,17 @@ public class FilialResult {
     this.porcentagemGastos = porcentagemGastos;
   }
 
+
+  @Override
+  public String toString() {
+    return "{" +
+      " mes='" + getMes() + "'" +
+      ", totalVendas='" + getTotalVendas() + "'" +
+      ", totalLucro='" + getTotalLucro() + "'" +
+      ", totalGastos='" + getTotalGastos() + "'" +
+      ", porcentagemLucro='" + getPorcentagemLucro() + "'" +
+      ", porcentagemGastos='" + getPorcentagemGastos() + "'" +
+      "}";
+  }
+
 }
