@@ -1,4 +1,4 @@
-package br.com.fag.adapter;
+package br.com.fag.adapter.receive;
 
 import java.util.ArrayList;
 
