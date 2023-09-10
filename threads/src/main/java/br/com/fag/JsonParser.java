@@ -7,7 +7,7 @@ import java.nio.file.FileSystems;
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 
-import br.com.fag.adapter.Enterprise;
+import br.com.fag.adapter.receive.Enterprise;
 
 public class JsonParser {
 
