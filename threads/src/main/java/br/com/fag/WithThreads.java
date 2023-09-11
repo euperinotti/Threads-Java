@@ -15,10 +15,11 @@ public class WithThreads extends Thread {
     long inicio = System.currentTimeMillis();
     JsonParser jsonData = new JsonParser(this.filename);
     Calculate calc = new Calculate();
-    DataSaver saveJson = new DataSaver();
+    DataSaverWithThreads saveJson;
 
     try {
-      saveJson.save(calc.calculate(jsonData.parse()));
+      saveJson = new DataSaverWithThreads(calc.calculate(jsonData.parse()));
+      saveJson.start();
     } catch (FileNotFoundException e) {
       e.printStackTrace();
     }

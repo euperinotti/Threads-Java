@@ -18878,7 +18878,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -19467,7 +19468,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -20056,7 +20058,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -20645,7 +20648,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -21234,7 +21238,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -21823,7 +21828,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -22412,7 +22418,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -23001,7 +23008,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -23590,7 +23598,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -24179,7 +24188,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -24768,7 +24778,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -25357,7 +25368,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -25946,7 +25958,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -26535,7 +26548,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -27124,7 +27138,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -27713,7 +27728,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -28302,7 +28318,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -28891,7 +28908,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -29480,7 +29498,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -30069,7 +30088,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -30658,7 +30678,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -31247,7 +31268,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -31836,7 +31858,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -32425,7 +32448,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -33014,7 +33038,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -33603,7 +33628,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -34192,7 +34218,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -34781,7 +34808,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -35370,7 +35398,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -35959,7 +35988,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -36548,1774 +36578,8 @@
         ]
       }
     ]
-  },{
-    "nome": "mock_nome",
-    "filiais": [
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      }
-    ]
-  },{
-    "nome": "mock_nome",
-    "filiais": [
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      }
-    ]
-  },{
-    "nome": "mock_nome",
-    "filiais": [
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      },
-      {
-        "nome": "mock_filial",
-        "historicoDeVendas": [
-          {
-            "mes": "janeiro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 25000.00
-          },
-          {
-            "mes": "fevereiro",
-            "totalDeVendas": 200000.00,
-            "gasto": 10000.00
-          },
-          {
-            "mes": "marco",
-            "totalDeVendas": 5000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "abril",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "maio",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "junho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "julho",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "agosto",
-            "totalDeVendas": 10000000.00,
-            "gasto": 300000.00
-          },
-          {
-            "mes": "setembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "outubro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 125000.00
-          },
-          {
-            "mes": "novembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 500000.00
-          },
-          {
-            "mes": "dezembro",
-            "totalDeVendas": 10000000.00,
-            "gasto": 600000.00
-          }
-        ]
-      }
-    ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -57194,7 +55458,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -57783,7 +56048,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -58372,7 +56638,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -58961,7 +57228,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -59550,7 +57818,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -60139,7 +58408,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -60728,7 +58998,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -61317,7 +59588,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -61906,7 +60178,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -62495,7 +60768,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -63084,7 +61358,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -63673,7 +61948,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -64262,7 +62538,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -64851,7 +63128,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -65440,7 +63718,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -66029,7 +64308,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -66618,7 +64898,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -67207,7 +65488,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -67796,7 +66078,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -68385,7 +66668,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -68974,7 +67258,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -69563,7 +67848,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -70152,7 +68438,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -70741,7 +69028,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -71330,7 +69618,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -71919,7 +70208,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -72508,7 +70798,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -73097,7 +71388,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -73686,7 +71978,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -74275,7 +72568,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -74864,7 +73158,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -75453,7 +73748,8 @@
         ]
       }
     ]
-  },{
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
@@ -76042,7 +74338,1778 @@
         ]
       }
     ]
-  },{
+  },
+  {
+    "nome": "mock_nome",
+    "filiais": [
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "mock_nome",
+    "filiais": [
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "mock_nome",
+    "filiais": [
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      },
+      {
+        "nome": "mock_filial",
+        "historicoDeVendas": [
+          {
+            "mes": "janeiro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 25000.00
+          },
+          {
+            "mes": "fevereiro",
+            "totalDeVendas": 200000.00,
+            "gasto": 10000.00
+          },
+          {
+            "mes": "marco",
+            "totalDeVendas": 5000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "abril",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "maio",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "junho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "julho",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "agosto",
+            "totalDeVendas": 10000000.00,
+            "gasto": 300000.00
+          },
+          {
+            "mes": "setembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "outubro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 125000.00
+          },
+          {
+            "mes": "novembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 500000.00
+          },
+          {
+            "mes": "dezembro",
+            "totalDeVendas": 10000000.00,
+            "gasto": 600000.00
+          }
+        ]
+      }
+    ]
+  },
+  {
     "nome": "mock_nome",
     "filiais": [
       {
