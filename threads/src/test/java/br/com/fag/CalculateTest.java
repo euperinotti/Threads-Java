@@ -1,13 +1,8 @@
 package br.com.fag;
 
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
 
 import br.com.fag.adapter.receive.Enterprise;
-import br.com.fag.adapter.receive.Filial;
-import br.com.fag.adapter.receive.RegistroMensal;
-import br.com.fag.adapter.save.EnterpriseResult;
-import br.com.fag.adapter.save.FilialResult;
 
 public class CalculateTest {
   // public static void main() throws FileNotFoundException {
