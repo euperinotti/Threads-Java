@@ -9,6 +9,7 @@ import br.com.fag.adapter.save.EnterpriseResult;
 import br.com.fag.adapter.save.FilialQueMaisGastou;
 import br.com.fag.adapter.save.FilialQueMaisVendeu;
 import br.com.fag.adapter.save.FilialResult;
+import br.com.fag.enums.EnumDespesas;
 
 public class Calculate {
 
@@ -18,7 +19,7 @@ public class Calculate {
     ArrayList<EnterpriseResult> relatorioTotal = new ArrayList<>();
 
     for (Enterprise empresa : listaEmpresas) {
-      relatorioFiliais.add(calculaMesFilial(empresa));
+      relatorioFiliais = calculaMesFilial(empresa);
       relatorioEmpresa.setFilias(relatorioFiliais);
       relatorioEmpresa.setTotalGastos(this.calculaTotalGastoDaEmpresa(empresa));
       relatorioEmpresa.setTotalVendas(this.calculaTotalVendaDaEmpresa(empresa));
@@ -31,25 +32,31 @@ public class Calculate {
     return relatorioTotal;
   }
 
-  public FilialResult calculaMesFilial(Enterprise empresa) {
-    FilialResult filialResult = new FilialResult();
+  public ArrayList<FilialResult> calculaMesFilial(Enterprise empresa) {
+    ArrayList<FilialResult> resultados = new ArrayList<>();
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
+        FilialResult filialResult = new FilialResult();
         filialResult.setTotalVendas(registro.getTotalDeVendas());
         filialResult.setTotalGastos(registro.getGasto());
         filialResult.setMes(registro.getMes());
-        filialResult.setPorcentagemGastos((registro.getTotalDeVendas() * registro.getGasto()) / 100);
+        filialResult.setPorcentagemGastos((float) (registro.getTotalDeVendas() * registro.getGasto()) % 100);
+        filialResult.setAluguel((long) (EnumDespesas.ALUGUEL.getPorcentagem() * registro.getTotalDeVendas()));
+        filialResult.setSeguro((long) (EnumDespesas.SEGURO.getPorcentagem() * registro.getTotalDeVendas()));
+        filialResult.setImposto((long) (EnumDespesas.IMPOSTO.getPorcentagem() * registro.getTotalDeVendas()));
         filialResult.setTotalLucro(registro.getTotalDeVendas() - registro.getGasto());
-        filialResult.setPorcentagemLucro((registro.getTotalDeVendas() * filialResult.getTotalLucro()) / 100);
+        
+        filialResult.setPorcentagemLucro((float) (registro.getTotalDeVendas() * filialResult.getTotalLucro()) % 100);
+        resultados.add(filialResult);
       }
     }
 
-    return filialResult;
+    return resultados;
   }
 
   public FilialQueMaisVendeu calculaFilialQueMaisVendeu(Enterprise empresa) {
     FilialQueMaisVendeu filialQueMaisVendeu = new FilialQueMaisVendeu();
-    Float maiorVenda = 0f;
+    Long maiorVenda = (long) 0;
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
 
@@ -66,7 +73,7 @@ public class Calculate {
 
   public FilialQueMaisGastou calculaFilialQueMaisGastou(Enterprise empresa) {
     FilialQueMaisGastou filialQueMaisGastou = new FilialQueMaisGastou();
-    Float maiorGasto = 0f;
+    Long maiorGasto = (long) 0;
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
 
@@ -81,8 +88,8 @@ public class Calculate {
     return filialQueMaisGastou;
   }
 
-  public Float calculaTotalLucroDaEmpresa(Enterprise empresa) {
-    Float totalLucro = 0f;
+  public Long calculaTotalLucroDaEmpresa(Enterprise empresa) {
+    Long totalLucro = (long) 0;
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
         totalLucro += (registro.getTotalDeVendas() - registro.getGasto());
@@ -92,8 +99,8 @@ public class Calculate {
     return totalLucro;
   }
 
-  public Float calculaTotalGastoDaEmpresa(Enterprise empresa) {
-    Float totalGastos = 0f;
+  public Long calculaTotalGastoDaEmpresa(Enterprise empresa) {
+    Long totalGastos = (long) 0;
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
         totalGastos += registro.getGasto();
@@ -103,8 +110,8 @@ public class Calculate {
     return totalGastos;
   }
 
-  public Float calculaTotalVendaDaEmpresa(Enterprise empresa) {
-    Float totalVenda = 0f;
+  public Long calculaTotalVendaDaEmpresa(Enterprise empresa) {
+    Long totalVenda = (long) 0;
     for (Filial filial : empresa.getFiliais()) {
       for (RegistroMensal registro : filial.getHistoricoDeVendas()) {
         totalVenda += registro.getTotalDeVendas();
