@@ -14,7 +14,6 @@ public class Enterprise {
     this.filiais = filiais;
   }
 
-
   public String getNome() {
     return this.nome;
   }
@@ -38,6 +37,5 @@ public class Enterprise {
       ", filiais='" + getFiliais() + "'" +
       "}";
   }
-
 
 }
