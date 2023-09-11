@@ -20,11 +20,5 @@ public class DataSaver {
     } catch (IOException e) {
       e.printStackTrace();
     }
-
-    try {
-      newJson.createNewFile();
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
   }
 }

@@ -13,6 +13,8 @@ public class EnterpriseResult {
   private Float imposto;
   private Float aluguel;
   private Float seguro;
+  private FilialQueMaisVendeu filialQueMaisVendeu;
+  private FilialQueMaisGastou filialQueMaisGastou;
 
   public EnterpriseResult() {
   }
@@ -107,6 +109,22 @@ public class EnterpriseResult {
     this.seguro = seguro;
   }
 
+  public FilialQueMaisVendeu getFilialQueMaisVendeu() {
+    return this.filialQueMaisVendeu;
+  }
+
+  public void setFilialQueMaisVendeu(FilialQueMaisVendeu filialQueMaisVendeu) {
+    this.filialQueMaisVendeu = filialQueMaisVendeu;
+  }
+
+  public FilialQueMaisGastou getFilialQueMaisGastou() {
+    return this.filialQueMaisGastou;
+  }
+
+  public void setFilialQueMaisGastou(FilialQueMaisGastou filialQueMaisGastou) {
+    this.filialQueMaisGastou = filialQueMaisGastou;
+  }
+
   @Override
   public String toString() {
     return "{" +
@@ -120,6 +138,8 @@ public class EnterpriseResult {
       ", imposto='" + getImposto() + "'" +
       ", aluguel='" + getAluguel() + "'" +
       ", seguro='" + getSeguro() + "'" +
+      ", filialQueMaisVendeu='" + getFilialQueMaisVendeu() + "'" +
+      ", filialQueMaisGastou='" + getFilialQueMaisGastou() + "'" +
       "}";
   }
 

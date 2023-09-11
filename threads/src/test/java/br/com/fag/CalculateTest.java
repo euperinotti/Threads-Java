@@ -71,42 +71,9 @@ public class CalculateTest {
 
   // Capturar a filial que mais vendeu
   public static void main(String[] args) throws FileNotFoundException {
-    ArrayList<FilialResult> novosRegistros = new ArrayList<>();
-    Float maiorVenda = 0f;
-    Float maiorGasto = 0f;
-    String nome = "";
-    String mesDeMaiorVenda = "";
-    String mesDeMaiorGasto = "";
     Enterprise[] listaEmpresas = new JsonParser("data1.json").parse();
-    for (Enterprise empresa : listaEmpresas) {
-      for (Filial filial : empresa.getFiliais()) {
-        for(RegistroMensal registro : filial.getHistoricoDeVendas()) {
-          FilialResult filialResult = new FilialResult();
-          filialResult.setTotalVendas(registro.getTotalDeVendas());
-          filialResult.setTotalGastos(registro.getGasto());
-          filialResult.setMes(registro.getMes());
-          filialResult.setPorcentagemGastos((registro.getTotalDeVendas() * registro.getGasto()) / 100);
-          filialResult.setTotalLucro(registro.getTotalDeVendas() - registro.getGasto());
-          filialResult.setPorcentagemLucro((registro.getTotalDeVendas() * filialResult.getTotalLucro()) / 100);
+    Calculate calculadora = new Calculate();
 
-          if (registro.getTotalDeVendas() > maiorVenda) {
-            maiorVenda = registro.getTotalDeVendas();
-            nome = filial.getNome();
-            mesDeMaiorVenda = registro.getMes();
-          }
-
-          if (registro.getGasto() > maiorGasto) {
-            maiorGasto = registro.getGasto();
-            nome = filial.getNome();
-            mesDeMaiorGasto = registro.getMes();
-          }
-
-          novosRegistros.add(filialResult);
-        }
-      }
-    }
-    System.out.println("Nome: " + nome);
-    System.out.println("Mes de maior venda: " + mesDeMaiorVenda);
-    System.out.println("Mes de maior gasto: " + mesDeMaiorGasto);
+    System.out.println(calculadora.calculate(listaEmpresas));
   }
 }
