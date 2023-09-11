@@ -2,13 +2,13 @@ package br.com.fag.adapter.receive;
 
 public class RegistroMensal {
   private String mes;
-  private Float totalDeVendas;
-  private Float gasto;
+  private Long totalDeVendas;
+  private Long gasto;
 
   public RegistroMensal() {
   }
 
-  public RegistroMensal(String mes, Float totalDeVendas, Float gasto) {
+  public RegistroMensal(String mes, Long totalDeVendas, Long gasto) {
     this.mes = mes;
     this.totalDeVendas = totalDeVendas;
     this.gasto = gasto;
@@ -22,19 +22,19 @@ public class RegistroMensal {
     this.mes = mes;
   }
 
-  public Float getTotalDeVendas() {
+  public Long getTotalDeVendas() {
     return this.totalDeVendas;
   }
 
-  public void setTotalDeVendas(Float totalDeVendas) {
+  public void setTotalDeVendas(Long totalDeVendas) {
     this.totalDeVendas = totalDeVendas;
   }
 
-  public Float getGasto() {
+  public Long getGasto() {
     return this.gasto;
   }
 
-  public void setGasto(Float gasto) {
+  public void setGasto(Long gasto) {
     this.gasto = gasto;
   }
 

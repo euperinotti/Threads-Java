@@ -2,7 +2,7 @@ package br.com.fag.adapter.save;
 
 public class FilialQueMaisVendeu {
   private String nome;
-  private Float valorMensal;
+  private Long valorMensal;
   private String mes;
 
   public String getNome() {
@@ -13,11 +13,11 @@ public class FilialQueMaisVendeu {
     this.nome = nome;
   }
 
-  public Float getValorMensal() {
+  public Long getValorMensal() {
     return this.valorMensal;
   }
 
-  public void setValorMensal(Float valorMensal) {
+  public void setValorMensal(Long valorMensal) {
     this.valorMensal = valorMensal;
   }
 

@@ -4,22 +4,22 @@ import java.util.ArrayList;
 
 public class EnterpriseResult {
   private String nome;
-  private Float totalVendas;
-  private Float totalLucro;
-  private Float totalGastos;
-  private Float porcentagemLucro;
-  private Float porcentagemGastos;
+  private Long totalVendas;
+  private Long totalLucro;
+  private Long totalGastos;
+  private Long porcentagemLucro;
+  private Long porcentagemGastos;
   private ArrayList<FilialResult> filias;
-  private Float imposto;
-  private Float aluguel;
-  private Float seguro;
+  private Long imposto;
+  private Long aluguel;
+  private Long seguro;
   private FilialQueMaisVendeu filialQueMaisVendeu;
   private FilialQueMaisGastou filialQueMaisGastou;
 
   public EnterpriseResult() {
   }
 
-  public EnterpriseResult(String nome, Float totalVendas, Float totalLucro, Float totalGastos, Float porcentagemLucro, Float porcentagemGastos, ArrayList<FilialResult> filias) {
+  public EnterpriseResult(String nome, Long totalVendas, Long totalLucro, Long totalGastos, Long porcentagemLucro, Long porcentagemGastos, ArrayList<FilialResult> filias) {
     this.nome = nome;
     this.totalVendas = totalVendas;
     this.totalLucro = totalLucro;
@@ -37,43 +37,43 @@ public class EnterpriseResult {
     this.nome = nome;
   }
 
-  public Float getTotalVendas() {
+  public Long getTotalVendas() {
     return this.totalVendas;
   }
 
-  public void setTotalVendas(Float totalVendas) {
+  public void setTotalVendas(Long totalVendas) {
     this.totalVendas = totalVendas;
   }
 
-  public Float getTotalLucro() {
+  public Long getTotalLucro() {
     return this.totalLucro;
   }
 
-  public void setTotalLucro(Float totalLucro) {
+  public void setTotalLucro(Long totalLucro) {
     this.totalLucro = totalLucro;
   }
 
-  public Float getTotalGastos() {
+  public Long getTotalGastos() {
     return this.totalGastos;
   }
 
-  public void setTotalGastos(Float totalGastos) {
+  public void setTotalGastos(Long totalGastos) {
     this.totalGastos = totalGastos;
   }
 
-  public Float getPorcentagemLucro() {
+  public Long getPorcentagemLucro() {
     return this.porcentagemLucro;
   }
 
-  public void setPorcentagemLucro(Float porcentagemLucro) {
+  public void setPorcentagemLucro(Long porcentagemLucro) {
     this.porcentagemLucro = porcentagemLucro;
   }
 
-  public Float getPorcentagemGastos() {
+  public Long getPorcentagemGastos() {
     return this.porcentagemGastos;
   }
 
-  public void setPorcentagemGastos(Float porcentagemGastos) {
+  public void setPorcentagemGastos(Long porcentagemGastos) {
     this.porcentagemGastos = porcentagemGastos;
   }
 
@@ -85,27 +85,27 @@ public class EnterpriseResult {
     this.filias = filias;
   }
 
-  public Float getImposto() {
+  public Long getImposto() {
     return this.imposto;
   }
 
-  public void setImposto(Float imposto) {
+  public void setImposto(Long imposto) {
     this.imposto = imposto;
   }
 
-  public Float getAluguel() {
+  public Long getAluguel() {
     return this.aluguel;
   }
 
-  public void setAluguel(Float aluguel) {
+  public void setAluguel(Long aluguel) {
     this.aluguel = aluguel;
   }
 
-  public Float getSeguro() {
+  public Long getSeguro() {
     return this.seguro;
   }
 
-  public void setSeguro(Float seguro) {
+  public void setSeguro(Long seguro) {
     this.seguro = seguro;
   }
 
