@@ -12,7 +12,6 @@ public class NoThreads {
   public void run() {
     long inicio = System.currentTimeMillis();
     JsonParser jsonData = new JsonParser(this.filename);
-
     Calculate calc = new Calculate();
     DataSaver saveJson = new DataSaver();
 
