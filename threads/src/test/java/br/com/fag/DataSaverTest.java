@@ -13,7 +13,7 @@ public class DataSaverTest {
   public static void main(String[] args) throws FileNotFoundException {
     File newJson = new File("threads/src/main/java/br/com/fag/data/result.json");
     Gson gson = new Gson();
-    Enterprise[] listaEmpresas = new JsonParser("data1.json").parse();
+    Enterprise[] listaEmpresas = new JsonParser("data.json").parse();
 
     Calculate calculadora = new Calculate();
 

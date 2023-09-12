@@ -16,7 +16,7 @@ public class CalculateTest {
     Long totalGasto = (long) 0;
     Long totalVenda = (long) 0;
     Long totalLucro = (long) 0;
-    Enterprise[] listaEmpresas = new JsonParser("data1.json").parse();
+    Enterprise[] listaEmpresas = new JsonParser("data.json").parse();
     for (Enterprise empresa : listaEmpresas) {
       for (Filial filial : empresa.getFiliais()) {
         for(RegistroMensal registro : filial.getHistoricoDeVendas()) {
@@ -49,7 +49,7 @@ public class CalculateTest {
   // Calcula relatorio de cada mes de uma filial
   public static void mainn() throws FileNotFoundException {
     ArrayList<FilialResult> novosRegistros = new ArrayList<>();
-    Enterprise[] listaEmpresas = new JsonParser("data1.json").parse();
+    Enterprise[] listaEmpresas = new JsonParser("data.json").parse();
     for (Enterprise empresa : listaEmpresas) {
       for (Filial filial : empresa.getFiliais()) {
         for(RegistroMensal registro : filial.getHistoricoDeVendas()) {

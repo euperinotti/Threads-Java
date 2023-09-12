@@ -20,6 +20,7 @@ public class Calculate {
 
     for (Enterprise empresa : listaEmpresas) {
       relatorioFiliais = calculaMesFilial(empresa);
+      relatorioEmpresa.setNome(empresa.getNome());
       relatorioEmpresa.setFilias(relatorioFiliais);
       relatorioEmpresa.setTotalGastos(this.calculaTotalGastoDaEmpresa(empresa));
       relatorioEmpresa.setTotalVendas(this.calculaTotalVendaDaEmpresa(empresa));
@@ -120,4 +121,5 @@ public class Calculate {
 
     return totalVenda;
   }
+
 }

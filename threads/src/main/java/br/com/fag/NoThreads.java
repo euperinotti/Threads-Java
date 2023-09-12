@@ -23,6 +23,6 @@ public class NoThreads {
 
     long fim = System.currentTimeMillis();
     
-    System.out.println("(st) intervalo: " + (fim - inicio) + "ms");
+    System.out.println("(st) duracao: " + (fim - inicio) + "ms");
   }
 }
